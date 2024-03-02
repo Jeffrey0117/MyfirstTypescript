@@ -1,6 +1,6 @@
 # MyfirstTypescript
-How To Build Your First TypeScript Project - TODO List Application
-YT vid link:https://www.youtube.com/watch?v=jBmrduvKl5w
+How To Build Your First TypeScript Project - TODO List Application <br>
+YT vid link:https://www.youtube.com/watch?v=jBmrduvKl5w<br><br>
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
